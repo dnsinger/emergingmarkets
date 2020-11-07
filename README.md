@@ -29,4 +29,3 @@ We will be analyzing the impact of FX Volatility and commodity price.  We will e
 * Efficacy and cost effectiveness of hedging via futures market
 * Evaluation of value proposition of Binkabi through mechanism of reducing FX risk, and potentially coffee price volatility (due to ability to engage in long term contracts, i.e. as a function of the demand country retail price)
 * Differential impact of commodity price volatility in global markets in coffee on 
-
