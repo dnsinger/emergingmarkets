@@ -52,38 +52,38 @@ ____
 
 ### Currency vs. Exports
 
-![currency_vs_exports](Images/local_currency_vs_exports.png)
+![currency_vs_exports](Images/local_currency_vs_exports.PNG)
 
 
 ### FX Volatility vs. Exports
 
-![FXvol_vs_exports](Images/FX_Rvol_vs_DExports.png)
+![FXvol_vs_exports](Images/FX_Rvol_vs_DExports.PNG)
 
 
 ### Coffee Futures Volatility and Production
 
-![KC](Images/KC_Future_Rvol.png)
+![KC](Images/KC_Future_Rvol.PNG)
 
 
-![by_country](Images/by_country.png)
+![by_country](Images/by_country.PNG)
 
 
-![colombia](Images/colombia.png)
+![colombia](Images/colombia.PNG)
 
 
-![Prod&Exp](Images/Total_Prod&Exports.png)
+![Prod&Exp](Images/Total_Prod&Exports.PNG)
 
 
 ### Heat Map
 
-![Heat_Map](Images/Caliente.png)
+![Heat_Map](Images/Caliente.PNG)
 
 
 ### PCA
 
-![PCA](Images/Gregatron_PCA.png)
+![PCA](Images/Gregatron_PCA.PNG)
 
-![PCA2](Images/pca2.png)
+![PCA2](Images/pca2.PNG)
 
 
 ## To Discuss
