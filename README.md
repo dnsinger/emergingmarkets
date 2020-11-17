@@ -68,9 +68,6 @@ ____
 ![by_country](Images/by_country.PNG)
 
 
-![colombia](Images/colombia.PNG)
-
-
 ![Prod&Exp](Images/Total_Prod&Exports.PNG)
 
 
@@ -83,7 +80,6 @@ ____
 
 ![PCA](Images/Gregatron_PCA.PNG)
 
-![PCA2](Images/pca2.PNG)
 
 
 ## To Discuss
